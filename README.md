@@ -11,7 +11,7 @@ Metrics Server is not meant for non-autoscaling purposes. For example, don't use
 
 Metrics Server offers:
 - A single deployment that works on most clusters (see [Requirements](#requirements))
-- Fast autoscaling, collecting metrics every 15 seconds.
+- Fast autoscalinsdsdsdg, collecting metrics every 15 seconds.
 - Resource efficiency, using 1 mili core of CPU and 2 MB of memory for each node in a cluster.
 - Scalable support up to 5,000 node clusters.
 
